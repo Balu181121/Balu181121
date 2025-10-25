@@ -20,7 +20,7 @@
 - 🌱 **Learning**: React 
 - ❓ **Ask me about**: React JS, Python
 - 📧 **Reach me**: [balu181121@gmail.com](mailto:balu181121@gmail.com)
-- 🔗 **Portfolio** | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/Balu181121)
+- 🔗 **Portfolio** | [LinkedIn](https://linkedin.com/in/bala-prasanna-kumar-yammaji-24b219222) | [GitHub](https://github.com/Balu181121)
 
 ---
 
