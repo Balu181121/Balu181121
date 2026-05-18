@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 **Currently**: Software Developer at **ORYZN Tech PRIVATE LIMITED**
+- 🚀 **Currently**: Software Developer at **Kartnex Retail (OPC) PRIVATE LIMITED**
 - 💡 Passionate about **MERN stack**
 - 🌱 **Learning**: React 
 - ❓ **Ask me about**: React JS, Python
